@@ -4,7 +4,7 @@ This project was created with HTML, CSS, and Bootstrap.
 
 It is a single, scrollable page with a parallax effect. The parallax effect was created only using CSS.
 
-Background images: [Unsplash](https://unsplash.com) & https://pexels.com.
+Background images: [Unsplash](https://unsplash.com) & [Pexels](https://pexels.com).
 
 To check out this page live, here are the links:
 
